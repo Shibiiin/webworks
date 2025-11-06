@@ -2,36 +2,64 @@
   "creators": [
     {
       "id": "1",
-      "name": "John Doe",
+      "name": "Sarah Chen",
       "designation": "UI/UX Designer",
-      "about": "A passionate designer with a love for creating intuitive and beautiful user interfaces.",
-      "profileImageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=500&h=500&fit=crop",
+      "about": "Passionate UI/UX designer with 5+ years of experience creating beautiful and functional digital products. Specialized in mobile app design and design systems.",
+      "profileImageUrl": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
       "portfolioImageUrls": [
-        "https://images.unsplash.com/photo-1627843563095-2df54a78a6d7?w=500",
-        "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=500"
-      ]
+        "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop"
+      ],
+      "followers": 12400,
+      "projects": 24,
+      "rating": 4.8,
+      "email": "sarah.chen@example.com",
+      "phone": "+1-555-0123",
+      "location": "San Francisco, CA",
+      "skills": ["UI Design", "UX Research", "Figma", "Prototyping"],
+      "status": "Active",
+      "joinDate": "2022-01-15T10:00:00Z"
     },
     {
       "id": "2",
-      "name": "Jane Smith",
-      "designation": "Flutter Developer",
-      "about": "An experienced Flutter developer building beautiful and performant cross-platform applications.",
-      "profileImageUrl": "https://images.unsplash.com/photo-1580894742445-97e3a6829c42?w=500&h=500&fit=crop",
+      "name": "Alex Rodriguez",
+      "designation": "Illustrator & Artist",
+      "about": "Digital artist and illustrator specializing in character design and fantasy art. Bringing imagination to life through vibrant colors and detailed illustrations.",
+      "profileImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
       "portfolioImageUrls": [
-        "https://images.unsplash.com/photo-1617042375876-a97ff0558b3e?w=500",
-        "https://images.unsplash.com/photo-1629904853716-f0bc64219b1b?w=500"
-      ]
+        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop"
+      ],
+      "followers": 8700,
+      "projects": 18,
+      "rating": 4.9,
+      "email": "alex.rodriguez@example.com",
+      "location": "New York, NY",
+      "skills": [
+        "Digital Illustration",
+        "Character Design",
+        "Procreate",
+        "Concept Art"
+      ],
+      "status": "Active",
+      "joinDate": "2022-03-10T14:30:00Z"
     },
     {
       "id": "3",
-      "name": "Alex Johnson",
-      "designation": "Content Creator",
-      "about": "Creating engaging content for brands and social media. Specializing in video and photography.",
-      "profileImageUrl": "https://images.unsplash.com/photo-1557862921-37829c790f19?w=500&h=500&fit=crop",
+      "name": "Maya Patel",
+      "designation": "Motion Designer",
+      "about": "Creative motion designer with expertise in 2D and 3D animation. Creating engaging visual stories that captivate audiences and enhance brand experiences.",
+      "profileImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
       "portfolioImageUrls": [
-        "https://images.unsplash.com/photo-1633464196929-c7b6c7a7e8f8?w=500",
-        "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=500"
-      ]
+        "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop"
+      ],
+      "followers": 15200,
+      "projects": 31,
+      "rating": 4.7,
+      "email": "maya.patel@example.com",
+      "location": "Los Angeles, CA",
+      "skills": ["After Effects", "Cinema 4D", "Motion Graphics"],
+      "status": "Away",
+      "joinDate": "2022-02-20T12:00:00Z"
     }
   ]
 }
