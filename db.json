@@ -42,24 +42,6 @@
       ],
       "status": "Active",
       "joinDate": "2022-03-10T14:30:00Z"
-    },
-    {
-      "id": "3",
-      "name": "Maya Patel",
-      "designation": "Motion Designer",
-      "about": "Creative motion designer with expertise in 2D and 3D animation. Creating engaging visual stories that captivate audiences and enhance brand experiences.",
-      "profileImageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
-      "portfolioImageUrls": [
-        "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop"
-      ],
-      "followers": 15200,
-      "projects": 31,
-      "rating": 4.7,
-      "email": "maya.patel@example.com",
-      "location": "Los Angeles, CA",
-      "skills": ["After Effects", "Cinema 4D", "Motion Graphics"],
-      "status": "Away",
-      "joinDate": "2022-02-20T12:00:00Z"
     }
   ]
 }
